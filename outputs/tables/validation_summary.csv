@@ -1,0 +1,16 @@
+check_name,check_value
+students_raw_rows,2035
+students_clean_rows,1990
+scores_raw_rows,2250
+scores_clean_rows,1948
+scholarships_raw_rows,2060
+scholarships_clean_rows,2000
+enrollment_raw_rows,2075
+enrollment_clean_rows,2000
+rd_analysis_panel_rows,1938
+duplicate_student_ids_in_panel,0
+missing_scores_in_panel,0
+missing_outcomes_in_panel,0
+invalid_gpa_values_in_panel,0
+students_within_10_points_cutoff,1117
+students_within_5_points_cutoff,582
